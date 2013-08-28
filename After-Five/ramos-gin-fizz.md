@@ -18,12 +18,13 @@ Tools
 
 Procedure 
 ----------
-1. Put the gin, lime juice, lemon juice, sugar/syrup, whipping cream, egg white, and orange blossom water your jar/martini shaker. 
+1. Put the gin, lime juice, lemon juice, sugar/syrup, whipping cream, egg white, orange blossom water, and ice in  your jar/martini shaker.  
 	Make sure you don't get any egg yolk in the drink. 
 	Do not put the club soda in the shaker. 
 2. Shake it for 5 minutes. 
 	Your hands will get cold, and your arms will get tired.  
-3. Pour the mixture into a Collins glass or a pint glass 
-4. Top it off with club soda 
+3. Pour the mixture into a Collins glass or a pint glass. 
+	Do not pour the ice cubes in. 
+4. Top it off with club soda. 
 
 If You've done everything correctly you should have a foamy cream colored drink. 

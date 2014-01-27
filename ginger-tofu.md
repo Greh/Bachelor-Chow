@@ -28,7 +28,7 @@ Procedure
 Notes
 ------
  * Do not use salt. Soy sauce is already salty. 
- * Powdered ginger will stick to the tofu in clumps. Dont use it. 
+ * Powdered ginger will stick to the tofu in clumps. Do not use it. 
  * Green onions burn easily, Do not let them cook for long. 
  * You can remove the white or green onions, but do not remove both. 
  * Use a lot of ginger and garlic. 

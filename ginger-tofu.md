@@ -18,7 +18,7 @@ Procedure
 ---------
 
 1. Cube and fry the tofu in a pan. 
-2. Add dice onions when the tofu is close to your desired consistency. 
+2. Add diced onions when the tofu is close to your desired consistency. 
 3. Add pepper to taste. 
 4. Add diced sweet cherry peppers 
 5. There should be very little oil left and the tofu will probably start sticking to the pan. Add soy sauce or teriyaki sauce.  

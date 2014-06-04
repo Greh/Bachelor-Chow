@@ -5,7 +5,7 @@ Ingredients
 ------------
 * 1 part George Dickel rye whiskey
 * 2 parts ginger ale 
-* 1 dash of chuncho bitters or krangostura
+* 1 dash of chuncho, krangostura, or lavender bitters
 
 Procedure 
 ---------- 

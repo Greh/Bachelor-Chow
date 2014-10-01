@@ -5,6 +5,7 @@ Ingredients
 ------------
 
  + bacon
+ + kale
  + onion 
  + red and green bell pepper 
  + salt and pepper 

@@ -1,4 +1,4 @@
-Ginger-Tofu
+Curried-Cauliflower
 ===========
 
 Ingredients

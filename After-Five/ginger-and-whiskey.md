@@ -5,8 +5,8 @@ These are the bitters that do work with Rye and a sweeter ginger beer:
 * Chuncho
 * Krangostura
 * Lavender
-These are the bitters that don not work well with rye whiskey and sweet ginger berr:  
-* blood orange biters
+These are the bitters that don not work well with rye whiskey and sweet ginger beer:  
+* blood orange bitters
 * grapefruit bitters
 * teapot bitters
 

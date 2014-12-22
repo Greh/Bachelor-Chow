@@ -1,4 +1,4 @@
-Ginger and Rye
+Whiskey and Soda
 ==============
 
 Ingredients
@@ -7,10 +7,6 @@ Ingredients
 * dash of lemon juice
 * club soda
 * extra flavoring
-
-Procedure
-----------
-Don not shake it; just swirl it.
 
 Extra flavoring options
 ------

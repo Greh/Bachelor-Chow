@@ -17,7 +17,10 @@ This is where I will put various grilled cheese sandwiches I liked.
 * egg and bacon 
 * mushrooms grilled in garlic and olive oil
 
-#Things I've Tried That Were Bad#
+#Things I have Tried That Were Bad#
 * bacon (unless there is also an egg in the sandwich)
-* spinach 
+* spinach
 
+#Combinations#
+* Brie + huckleberry jam
+*Brie + raspberry jam
